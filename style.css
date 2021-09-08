@@ -89,7 +89,9 @@ input::-webkit-inner-spin-button {
   width: 100%;
   cursor: pointer;
 }
-
+button:focus{
+  outline: none;
+}
 .btns > button:hover {
   background-color: var(--light-grayish-cyan);
   color: var(--very-dark-cyan);
