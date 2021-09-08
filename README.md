@@ -16,6 +16,6 @@ Users should be able to:
 
 ### Built with
 
--HTML
--CSS
--Vanilla Js(-settimeout)
+- HTML
+- CSS
+- Vanilla Js(-settimeout)
