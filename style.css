@@ -190,13 +190,22 @@ h4 {
 @media screen and (max-width: 690px) {
   .container {
     flex-direction: column;
+    width: 450px;
+  }
+  #custom {
+    width: 129.47px; /*Here*/
   }
   .right {
     min-height: 240px;
+    width: 100%;
+    max-width: 100%;
   }
 }
 
 @media screen and (max-width: 475px) {
+  .container {
+    width: 90%; /*Here*/
+  }
   .btns {
     grid-template-columns: 1fr 1fr;
     gap: 10%;
@@ -206,7 +215,7 @@ h4 {
     font-size: 12px;
   }
   #custom {
-    width: 107.61px;
+    width: 153.41px; /*Here*/
     text-align: center;
     height: 27px;
   }
