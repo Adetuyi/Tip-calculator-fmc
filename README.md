@@ -1,6 +1,6 @@
 # Tip calculator app solution
 
-# Frontend Mentor Challenge
+## Frontend Mentor Challenge
 
 ### The challenge
 
