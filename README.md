@@ -12,7 +12,7 @@ Users should be able to:
 
 ## Live Site
 
-- Live Site URL in About
+- https://adetuyi.github.io/Tip-calculator-fmc/
 
 ### Built with
 
