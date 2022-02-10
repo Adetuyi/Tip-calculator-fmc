@@ -60,6 +60,7 @@ right.addEventListener("click", (e) => {
     totalArea.textContent = "$0.00";
     e.target.id = "";
     document.querySelector("#focus").id = "";
+    document.querySelector("#custom").value = "";
   }
 });
 
